@@ -1,0 +1,19 @@
+%%%-------------------------------------------------------------------
+%%% @author ungamed
+%%% @copyright (C) 2014, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 14. Jul 2014 7:40 PM
+%%%-------------------------------------------------------------------
+{application, tmc_test, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {mod, {tmc_test_app, []}},
+  {env, []}
+]}.
