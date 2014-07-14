@@ -6,7 +6,7 @@
 %%% @end
 %%% Created : 14. Jul 2014 7:39 PM
 %%%-------------------------------------------------------------------
--module(tmc_test_app).
+-module(tmc_tester_app).
 -author("ungamed").
 
 -behaviour(application).
